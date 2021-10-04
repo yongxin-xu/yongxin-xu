@@ -1,8 +1,7 @@
 ### Hi there 👋
-[![Yongxin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongxin-xu&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on the Spider Storage Engine.
-- 🌱 I’m currently learning some OLAP engines.
+- 🔭 I’m currently studying Computer Science at Northwestern University.
+- 🌱 I’m a contributor of [TSpider](https://github.com/Tencent/TenDBCluster-TSpider) and [MariaDB](https://github.com/MariaDB/server).
 <!--
 **yongxin-xu/yongxin-xu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
