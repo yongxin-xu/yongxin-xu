@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently studying Computer Science at Northwestern University.
 - 🌱 I’m a contributor of [TSpider](https://github.com/Tencent/TenDBCluster-TSpider) and [MariaDB](https://github.com/MariaDB/server).
+- 💻 I will be joining [Meta](https://github.com/facebook) as a software engineer intern in summer 2022.
 <!--
 **yongxin-xu/yongxin-xu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
