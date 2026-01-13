@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m a master's student and research assistant in CS at Northwestern University.
-- 🌱 I’m a contributor of [TSpider](https://github.com/Tencent/TenDBCluster-TSpider) and [MariaDB](https://github.com/MariaDB/server).
-- 💻 I will be joining [Meta](https://github.com/facebook) as a software engineer intern in summer 2022.
 <!--
 **yongxin-xu/yongxin-xu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
